@@ -1,0 +1,14 @@
+{
+  "pc": {
+    "version": "14.0",
+    "download_url": "https://raw.githubusercontent.com/Lgfire444/L4G-Panel-Update/main/svchost.exe",
+    "changelog": "Zero-Lag ESP, Auto-Update System, invisible stream mode."
+  },
+  "apk": {
+    "version": "14.0",
+    "version_code": 14,
+    "download_url": "https://raw.githubusercontent.com/Lgfire444/L4G-Panel-Update/main/L4G_Remote.apk",
+    "changelog": "Auto-update sync, instant discovery, zero-latency controller link.",
+    "force": false
+  }
+}
