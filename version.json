@@ -5,10 +5,10 @@
     "changelog": "Zero-Lag ESP, Auto-Update System, invisible stream mode."
   },
   "apk": {
-    "version": "14.1",
-    "version_code": 15,
+    "version": "14.2",
+    "version_code": 16,
     "download_url": "https://raw.githubusercontent.com/lgfire093/L4G-Panel-Update/main/L4G_Remote.apk",
-    "changelog": "Port-free connect (http://ip), 80/5000/8080 auto-fallback, Wi-Fi link fix.",
+    "changelog": "Panel identity check, 80/5000/8080/49777 fallback, Wi-Fi connect fix.",
     "force": false
   },
   "ios": {
